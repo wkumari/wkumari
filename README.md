@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+At some point I'll actually get around to filling this in... but it feels very "social network"...
 <!--
 **wkumari/wkumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
